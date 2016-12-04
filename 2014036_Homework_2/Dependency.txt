@@ -1,0 +1,3 @@
+So I have done the assignment in Python. To run the code INSTALL ANACONDA on your computer from the link https://www.continuum.io/downloads, if you don't have it installed. It is a platform to easily run python codes on Windows or Ubuntu where we can install libraries easily or have predefied libraries. Then open spyder and run the code on console.
+
+So, it allows to have dependencies preinstalled, which is needed for the assignment.
